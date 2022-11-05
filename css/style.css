@@ -11,9 +11,12 @@ body {
     height: 70px;
 }
 
+a, a:hover{
+    text-decoration: none;
+}
+
 a.nav-link.text-light.font-weight-bold {
     font-family: 'Rosario';
-
 }
 
 /* top header */
